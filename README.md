@@ -166,14 +166,9 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ---
 
-### **`🌴 COLABORADORES`**
-<a href="https://github.com/David-Chian/Megumin-Bot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
-</a>
-
 ### **`Creador original`**
 <a
-href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
+href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="63" height="63" alt="David"/></a>
 
 ### **`🌹 CREDITOS`**
 <a
