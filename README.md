@@ -1,8 +1,8 @@
-<h1 align="center">Megumin Bot - MD 💥</h1>
+<h1 align="center">Nikolai Bot -  🤍</h1>
  <p align="center">💣 WhatsApp Bot Node-Js.</p>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Megumin+-+Bot+-+MD;Gracias+por+preferirnos;Creado+por+David+Chian;💥+BOOM!!!;🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;Nikolai+-+Bot+-+MD;Gracias+a+DavidChian+por+meguminbot;Modded+By+DarkJack;Why+You+so+Serious🤍;🔥)](https://git.io/typing-svg)
 ![Nikolai](https://dthezntil550i.cloudfront.net/ad/latest/ad2210270027342590008037795/5913c06d-459b-4eab-b51f-612c4e8c3c05.png)
 
 ---
@@ -13,32 +13,6 @@
  <summary><b> 🌹 Info Bot</b></summary>
 
 * Este proyecto **no está afiliado de ninguna manera** con `WhatsApp`, `Inc. WhatsApp` es una marca registrada de `WhatsApp LLC`, y este bot es un **desarrollo independiente** que **no tiene ninguna relación oficial con la compañía**.
-
-</details>
-
----
-
-### **`💭 Contáctanos`**
-
-<details>
-<summary><b> 💣 Contáctos</b></summary>
-
-* themeguminbot@gmail.com
-* https://wa.me/5493876432076
-* https://wa.me/5351524614
-
-</details>
-
----
-
-### **`☁️ Vortexus Cloud 🚀`**
-<a href="https://vortexuscloud.com"><img src="https://qu.ax/xjKv.jpg" height="125px"></a>
-
-<details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- **Pagina Principal:** [`Aquí`](https://vortexuscloud.com)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/DSs6k5EnzzE2FeFrTj3Fao)
 
 </details>
 
@@ -58,7 +32,7 @@ termux-setup-storage
 ```
 
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/David-Chian/Megumin-Bot-MD/master/megu.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O -[https://github.com/DarkJacke/Nikolai.bot/raw/refs/heads/main/megu.sh] | bash
 ```
 
 #### **🌺 Instalación manual por termux**
@@ -76,7 +50,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD 
+git clone https://github.com/DarkJacke/Nikolai.bot && cd Nikolai.bot
 ```
 
 ```bash
@@ -99,7 +73,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Megumin-Bot-MD
+    cd Nikolai.bot
     ```
 
 2. Inicia el bot nuevamente:
@@ -115,7 +89,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd Megumin-Bot-MD
+    cd Nikolai.bot
     ```
 
 2. Elimina la carpeta MiniSession:
@@ -141,48 +115,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details>
 
 ---
-
-#### **`💣 Instalación por cloudshell`**
-
-<details>
- <summary><b> 💥 Comandos</b></summary>
-
-[![blog](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/175OipZkeLQ?si=8fbNFwaXqMG6XXt)
-
-[`💥 Instalar Cloud Shell Clic Aqui`](https://www.mediafire.com/file/bp2l6cci2p30hjv/Cloud+Shell_1.apk/file)
-
-```bash
-> git clone https://github.com/David-Chian/Megumin-Bot-MD
-```
-
-```bash
-> cd Megumin-Bot-MD && yarn install
-```
-
-```bash
-> npm install
-```
-
-```bash
-> npm start
-```
-
-</details>
-
----
-
-#### **`🌌 ACTIVAR EN CODESPACE`**
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=David-Chian/Megumin-Bot-MD&ref=main&geo=UsEast)
-
------ 
-#### **`⏏️ ACTIVAR EN KOYEB`**
-[![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/David-Chian/Megumin-Bot-MD&branch=master&name=meguminbot-md)
-
-------------------
-#### **`☁️ ACTIVAR EN RENDER`**
-[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FDavid-Chian%2FMegumin-Bot-MD)
+espaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=DarkJacke/Nikolai.bot&ref=main&geo=UsEast)
 
 ------------------
 ##### **`💻 PARA USUARIOS DE WINDOWS/VPS/RDP`**
@@ -196,7 +129,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/David-Chian/Megumin-Bot-MD && cd Megumin-Bot-MD && npm install && npm update && node .
+git clone [https://github.com/DarkJacke/Nikolai.bot] && cd Nikolai.bot && npm install && npm update && node .
 ```
 
 </details>
@@ -228,8 +161,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820) |
-| WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
+| WhatsApp | Gc Nikolai Support| [¡Click aquí!](https://chat.whatsapp.com/Ihh4dk24NQuEbFu0yL5ni5) |
 | WhatsApp | Gc Megumin | [¡Click aquí!](https://chat.whatsapp.com/H5bw4MJucS1BBHnZ9wv3vI) |
 
 ---
@@ -239,7 +171,7 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 <img src="https://contrib.rocks/image?repo=David-Chian/Megumin-Bot-MD" /> 
 </a>
 
-### **`👑 PROPIETARIO`**
+### **`Creador original`**
 <a
 href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.png" width="130" height="130" alt="David"/></a>
 
@@ -247,4 +179,4 @@ href="https://github.com/David-Chian"><img src="https://github.com/David-Chian.p
 <a
 href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="130" height="130" alt="BrunoSobrino"/></a>
 
-[© Powered By Sunlight Team ⚡︎](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z)
+[© Powered and modded By Nikolai ⚡︎](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z)
