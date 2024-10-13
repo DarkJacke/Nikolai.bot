@@ -115,7 +115,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details>
 
 ---
-espaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=DarkJacke/Nikolai.bot&ref=main&geo=UsEast)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/DarkJacke/Nikolai.bot?quickstart=1)
 
 ------------------
 ##### **`💻 PARA USUARIOS DE WINDOWS/VPS/RDP`**
